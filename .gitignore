@@ -36,3 +36,9 @@ backend/storage/
 *.mp4
 *.wav
 .env
+
+pretrained_models/
+*.ckpt
+*.bin
+*.pt
+*.onnx
